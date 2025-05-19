@@ -1,0 +1,94 @@
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Audio.OpenAL.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Core.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Input.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\python_projs\KG\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StbImageSharp.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Audio.OpenAL.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Compute.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Core.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Graphics.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Input.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StbImageSharp.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\lab2_kg\lab opentk\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleA.CB28C8CC.Up2Date
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Audio.OpenAL.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Core.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Input.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StbImageSharp.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleA.CB28C8CC.Up2Date
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\game_repo\Game-with-OpenTK\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
